@@ -3,7 +3,12 @@
 
 1. 🔭 I’m currently working on fullstack project with Next.js13, Typescript, Styled Components and Redux Toolkit
 2. 🌱 I’m currently learning Node.js
-3. 📫 How to reach me: renia.diurczak@gmail.com or [title](https://www.linkedin.com/in/renata-diurczak/)
+3. 📫 How to reach me: renia.diurczak@gmail.com or [LinkedIn](https://www.linkedin.com/in/renata-diurczak/)
+
+| Frontend     | Backend |
+| ----------- | ----------- |
+| ![image](https://user-images.githubusercontent.com/49594210/230564027-12a364b3-78c7-44e6-b08e-7deabfebdd1a.png)    | Title       |
+| Paragraph   | Text        |
 
 <!--
 **reniuszka/reniuszka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
