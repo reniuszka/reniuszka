@@ -1,9 +1,10 @@
-### Hi there 👋
+### Hi there, I am Renata, Front-End Developer from Poland: 👋
 #### 🚧 My portfolio is my github profile now because i am updating it for 2023 🚧
 
 1. 🔭 I’m currently working on fullstack project with Next.js13, Typescript, Styled Components and Redux Toolkit
 2. 🌱 I’m currently learning Node.js
-3. 📫 How to reach me: renia.diurczak@gmail.com or [LinkedIn](https://www.linkedin.com/in/renata-diurczak/)
+3. My projects that are still alive:1. [aballforall.com](https://aballforall.com) 2. [trepodhale.pl](https://www.trepodhale.pl) 3. [logopedapodhale.pl](https://www.logopedapodhale.pl)
+5. 📫 How to reach me: renia.diurczak@gmail.com or [LinkedIn](https://www.linkedin.com/in/renata-diurczak/)
 
 | Frontend     | Backend |
 | ----------- | ----------- |
