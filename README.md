@@ -3,7 +3,10 @@
 
 1. 🔭 I’m currently working on fullstack project with Next.js13, Typescript, Styled Components and Redux Toolkit
 2. 🌱 I’m currently learning Node.js
-3. My projects that are still alive:1. [aballforall.com](https://aballforall.com) 2. [trepodhale.pl](https://www.trepodhale.pl) 3. [logopedapodhale.pl](https://www.logopedapodhale.pl)
+3. My projects that are still alive: 
+      - [aballforall.com](https://aballforall.com) 
+      - [trepodhale.pl](https://www.trepodhale.pl) 
+      - [logopedapodhale.pl](https://www.logopedapodhale.pl)
 5. 📫 How to reach me: renia.diurczak@gmail.com or [LinkedIn](https://www.linkedin.com/in/renata-diurczak/)
 
 | Frontend     | Backend |
