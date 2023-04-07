@@ -4,6 +4,7 @@
 1. 🔭 I’m currently working on fullstack project with Next.js13, Typescript, Styled Components and Redux Toolkit
 2. 🌱 I’m currently learning Node.js
 3. My projects that are still alive: 
+      - [blog](small-blog-about-js-and-me.vercel.app/)
       - [aballforall.com](https://aballforall.com) 
       - [trepodhale.pl](https://www.trepodhale.pl) 
       - [logopedapodhale.pl](https://www.logopedapodhale.pl)
