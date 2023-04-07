@@ -1,4 +1,9 @@
 ### Hi there 👋
+#### 🚧 My portfolio is my github profile now because i am updating it for 2023 🚧
+
+1. 🔭 I’m currently working on fullstack project with Next.js13, Typescript, Styled Components and Redux Toolkit
+2. 🌱 I’m currently learning Node.js
+3. 📫 How to reach me: renia.diurczak@gmail.com or [title](https://www.linkedin.com/in/renata-diurczak/)
 
 <!--
 **reniuszka/reniuszka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
