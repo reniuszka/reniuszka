@@ -7,7 +7,6 @@
 3. My projects which are still alive: 
       - [aballforall.com](https://aballforall.com) 
       - [trepodhale.pl](https://www.trepodhale.pl)
-      - [blog](https://small-blog-about-js-and-me.vercel.app/)
 5. 📫 How to reach me: renia.diurczak@gmail.com or [LinkedIn](https://www.linkedin.com/in/renata-diurczak/)
 
 | Frontend     | Backend |
@@ -27,6 +26,7 @@
 <!--
 **reniuszka/reniuszka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+      - [blog](https://small-blog-about-js-and-me.vercel.app/)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
