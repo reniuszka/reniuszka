@@ -17,8 +17,7 @@
 <path d="M12.4635 9.88111L0.949219 9.88111L0.949219 12.8817L10.6443 12.8817L16.0064 22.1156L23.0921 9.88111H19.5492L16.0064 15.9984L12.4635 9.88111Z" fill="black"/>
 <path d="M14.2247 22.1156L0.949219 22.1156L0.949219 19.1151L12.4917 19.1151L14.2247 22.1156Z" fill="black"/>
 <path d="M9.84323 14.5271L11.5427 17.4696L0.949219 17.4696L0.949219 14.5271L9.84323 14.5271Z" fill="black"/>
-</svg>
- | ![image](https://user-images.githubusercontent.com/49594210/230565205-9dd72f92-5360-4ce4-b9d2-3e558cedd532.png)![image](https://user-images.githubusercontent.com/49594210/230564193-8b1255d5-2318-4805-a0e6-bf7dfb7dfa27.png)
+</svg> | ![image](https://user-images.githubusercontent.com/49594210/230565205-9dd72f92-5360-4ce4-b9d2-3e558cedd532.png)![image](https://user-images.githubusercontent.com/49594210/230564193-8b1255d5-2318-4805-a0e6-bf7dfb7dfa27.png)
 
 
 
