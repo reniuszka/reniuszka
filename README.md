@@ -2,7 +2,7 @@
 #### 🚧 My portfolio is my github profile now because i am updating it for 2024 🚧
 
 1. 🔭 I’m currently working on fullstack project with Next.js13, Typescript, React, Contentful (CMS), GraphQL, and Tailwind CSS:
-      - .[wszyscywgory.pl/](https://www.wszyscywgory.pl/)
+      - [wszyscywgory.pl](https://www.wszyscywgory.pl/)
 2. 🌱 I’m currently learning Node.js
 3. My projects which are still alive: 
       - [aballforall.com](https://aballforall.com) 
